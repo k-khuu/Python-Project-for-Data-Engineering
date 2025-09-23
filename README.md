@@ -1,7 +1,3 @@
-Here’s a professional and engaging GitHub README tailored for your repository based on the Coursera course [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering):
-
----
-
 # 🛠️ Python Project for Data Engineering
 
 ## Overview
@@ -75,6 +71,3 @@ Only countries with GDP > 100 billion USD are included in the final query output
 
 This project was developed as part of the [Python Project for Data Engineering](https://www.coursera.org/learn/python-project-for-data-engineering) specialization by IBM on Coursera.
 
----
-
-Let me know if you’d like to add badges, a license, or contribution guidelines. This is already portfolio-ready and shows off your data engineering chops.
